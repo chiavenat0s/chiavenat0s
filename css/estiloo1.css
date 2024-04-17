@@ -54,7 +54,7 @@ nav ul {
 
 nav ul li {
     display: inline;
-    margin-right: 40px; /* Espacio entre elementos del menú */
+    margin-right: 15px; /* Espacio entre elementos del menú */
 }
 
 nav ul li:last-child {
